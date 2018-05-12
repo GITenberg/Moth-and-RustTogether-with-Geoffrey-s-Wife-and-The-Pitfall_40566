@@ -1,0 +1,28 @@
+_repo: Moth-and-RustTogether-with-Geoffrey-s-Wife-and-The-Pitfall_40566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40566-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: Moth and rust.--Geoffrey's wife.--Let loose.--The pitfall.
+gutenberg_issued: '2012-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: Moth and rust -- Geoffrey's wife -- The pitfall.
+title: Moth and Rust; Together with Geoffrey's Wife and The Pitfall
+url: http://www.gutenberg.org/ebooks/40566
